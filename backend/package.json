@@ -12,7 +12,7 @@
     "Agent",
     "RAG based Agent"
   ],
-  "author": "",
+  "author": "omprakash kumar",
   "license": "ISC",
   "type": "module",
   "dependencies": {
