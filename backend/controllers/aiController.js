@@ -3,7 +3,6 @@ import { detectCollection, summarizeData } from "../utils/aiHelpers.js";
 import User from "../models/userModel.js";
 import Order from "../models/orderModel.js";
 import Product from "../models/productModel.js";
-import { parseToMongoFilter } from "../services/llmService.js";
 
 export const getAnswer = async (req, res) => {
   try {
