@@ -4,11 +4,11 @@ import connectToMongoDB from "./configs/mongodb.js";
 
 // App confi
 const app = express();
-const port = process.env.PORT || 4000;
+const port = process.env.PORT || 5000;
 connectToMongoDB()
 
 app.get("/", (req, res) => {
-  res.send("Hello DataArt India");
+  res.send("Hello India");
 });
 
 app.listen(port, () => console.log(`Server is running on ${port}`));
