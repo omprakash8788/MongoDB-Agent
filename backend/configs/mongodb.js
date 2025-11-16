@@ -1,5 +1,4 @@
 import mongoose from "mongoose";
-
 const connectToMongoDB= async()=>{
     mongoose.connection.on('connected',()=>{
         console.log("MongoDB is connected")
