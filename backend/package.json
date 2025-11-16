@@ -1,8 +1,16 @@
 {
-  "name": "backend",
+  "name": "mongoose-agent",
   "version": "1.0.0",
-  "description": "",
+  "description": "MongoDB agent which help to communicate with database",
   "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omprakash8788/MongoDB-Agent/tree/main/backend"
+  },
+  "bugs": {
+    "url": "https://github.com/omprakash8788/MongoDB-Agent/issues",
+    "email": "omprakashkumar552@gmail.com"
+  },
   "scripts": {
     "start": "node server.js",
     "server": "nodemon server.js"
