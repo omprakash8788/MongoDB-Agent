@@ -35,6 +35,9 @@ MongoDB Agent is an **AI-powered backend service** that can:
 
 This system converts **Natural Language → Database Logic → Intelligent Response**.
 
+<img width="1135" height="640" alt="image" src="https://github.com/user-attachments/assets/4b6597d6-4a91-4683-9012-5506734ff581" />
+
+
 ---
 ## 🏗️ Tech Stack
 
