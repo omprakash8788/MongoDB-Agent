@@ -120,10 +120,10 @@ npm install
 
 
 ---
-```
- Create .env:
+
+Create .env:
+
  PORT=5000
 MONGODB_URI=your_mongo_atlas_uri
 OPENAI_API_KEY=your_openai_key
 
-```
