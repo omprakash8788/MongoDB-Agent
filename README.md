@@ -106,8 +106,6 @@ MONGODB-AGENT/
 
 --- 
 
----
-
 ## ✨ Features
 
 - 🔥 Natural Language → MongoDB Query  
