@@ -36,6 +36,22 @@ MongoDB Agent is an **AI-powered backend service** that can:
 This system converts **Natural Language → Database Logic → Intelligent Response**.
 
 ---
+## 🏗️ Tech Stack
+
+| Task / Layer                  | Technology                                   |
+|-------------------------------|-----------------------------------------------|
+| Backend API                   | Node.js + Express.js                          |
+| Database                      | MongoDB Atlas                                 |
+| ODM                           | Mongoose                                      |
+| AI Engine                     | OpenAI GPT-4o                                 |
+| HTTP Client                   | Axios                                        |
+| Environment Config            | dotenv                                       |
+| Security & Requests           | CORS                                         |
+| Architecture Pattern          | Layered Architecture                          |
+| Future Frontend (UI)          | React.js (Coming Soon)                        |
+| Containerization (Future)     | Docker (Planned)                              |
+
+
 
 ## 🏗 System Architecture (Layered Design)
 
@@ -88,18 +104,7 @@ MONGODB-AGENT/
 
 
 
----
-
-## 🛠️ Tech Stack
-
-- Node.js  
-- Express.js  
-- MongoDB Atlas  
-- Mongoose  
-- GPT-4o (AI Layer)  
-- Axios  
-- dotenv  
-- CORS  
+--- 
 
 ---
 
