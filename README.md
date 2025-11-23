@@ -1,3 +1,18 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Node Version](https://img.shields.io/badge/Node-20.x-green.svg)](https://nodejs.org/)
+[![Express Version](https://img.shields.io/badge/Express-4.x-lightgrey.svg)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green.svg)](https://www.mongodb.com/)
+[![Mongoose](https://img.shields.io/badge/Mongoose-ODM-red.svg)](https://mongoosejs.com/)
+[![AI](https://img.shields.io/badge/AI-GPT--4o-blueviolet.svg)](https://openai.com/)
+[![Backend](https://img.shields.io/badge/Backend-Node.js-yellowgreen.svg)](https://nodejs.org/)
+[![Architecture](https://img.shields.io/badge/Architecture-Layered-blue.svg)](#)
+[![Status](https://img.shields.io/badge/Status-Production%20Ready-success.svg)](#)
+[![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://www.docker.com/)
+[![VS Code](https://img.shields.io/badge/IDE-VS%20Code-blue.svg)](https://code.visualstudio.com/)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F7FF&width=900&lines=MongoDB+Agent+%F0%9F%A4%96;AI+Powered+Database+Intelligence;Natural+Language+%E2%86%94+MongoDB;Node.js+%7C+Express+%7C+MongoDB+%7C+GPT-4o;Build+Your+Own+ChatGPT+For+Database)
+
+
 #  MongoDB Agent (AI + Database Intelligence System)
 
 A powerful **Node.js + MongoDB + AI** system that allows you to interact with your database using **natural language**.
