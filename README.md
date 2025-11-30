@@ -41,13 +41,6 @@ This system converts **Natural Language → Database Logic → Intelligent Respo
 <img width="1126" height="638" alt="image" src="https://github.com/user-attachments/assets/b6232676-03c7-4941-b526-049156f4b527" />
 
 ---
-
-<img width="1225" height="642" alt="image" src="https://github.com/user-attachments/assets/40963268-fc88-452d-bfe2-bd1b13dd4325" />
-
-
-
-
----
 ## 🏗️ Tech Stack
 
 | Task / Layer                  | Technology                                   |
